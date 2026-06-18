@@ -2,7 +2,7 @@
 
 I'm a robotics-focused engineer with a background in mechanical engineering, aeronautics and astronautics, controls, state estimation, and mechatronics.
 
-I completed my M.S. in Aeronautics and Astronautics at Stanford after earning my B.S. in Mechanical Engineering with a Dynamics and Controls concentration. I like building systems that connect physical hardware, software, sensing, and control.
+I completed my M.S. in Aeronautics and Astronautics after earning my B.S. in Mechanical Engineering, both at Stanford. I like building systems that connect physical hardware, software, sensing, and control.
 
 My strongest interests are in robotics, autonomy, aerospace systems, state estimation, and hardware/software integration.
 
