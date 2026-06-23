@@ -29,7 +29,7 @@ Built a Python-based airfoil optimization tool using a Hess-Smith panel method a
 
 **Tools:** Python, numerical optimization, aerodynamics, Hess-Smith panel method, NACA airfoils
 
-### [Gravity Battery Winch](https://github.com/nolantopper/Winch-PID-Controller
+### [Gravity Battery Winch](https://github.com/nolantopper/Winch-PID-Controller)
 
 Designed and built a scale translating-drum winch for a gravity battery concept with Renewell Energy. The system used PID control to synchronize drum rotation and carriage translation for repeatable cable spooling.
 
