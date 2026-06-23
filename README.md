@@ -35,7 +35,7 @@ Designed and built a scale translating-drum winch for a gravity battery concept 
 
 **Tools:** PID control, mechatronics, encoders, motor control, CAD, rapid prototyping, system integration
 
-### GPS Altitude Mapping
+### [GPS Altitude Mapping](https://github.com/nolantopper/GNSS-Sensor-Fusion)
 
 Implemented an Extended Kalman Filter to fuse GPS altitude and barometric pressure data for smoother elevation estimates, then compared the filtered result against fused location data.
 
