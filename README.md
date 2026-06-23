@@ -45,7 +45,7 @@ Implemented an Extended Kalman Filter to fuse GPS altitude and barometric pressu
 
 **Programming:** Python, C/C++, MATLAB, JavaScript
 **Robotics / Controls:** ROS, ROS 2, PID control, state estimation, Kalman filtering, sensor fusion, trajectory alignment
-**Tools / Systems:** Docker, Linux, Git, CAD, Fusion 360, 3D printing, rapid prototyping, motor control
+**Tools / Systems:** Linux, Git, CAD, Fusion 360, 3D printing, rapid prototyping, motor control
 **Engineering Areas:** mechatronics, dynamics and controls, aerodynamics, optimization, experimental testing
 
 ## Background
